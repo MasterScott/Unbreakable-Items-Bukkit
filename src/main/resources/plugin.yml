@@ -1,0 +1,7 @@
+name: UnbreakableItems
+version: ${project.version}
+main: com.eastarctica.unbreakableitems.UnbreakableItems
+api-version: 1.15
+authors: [East_Arctica]
+description: An attempt at setting every item that can be unbreakable to be unbreakable
+website: eastarctica.tk
